@@ -1,5 +1,5 @@
 
-## SimbirSoft-SDET-TEST
+## SimbirSoft
 Тестовое для практикума SDET
 Использован паттерн проектирования Page Object Model
 
